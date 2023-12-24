@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izza-kanwal
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Front End Web Development
+- 👀 I’m interested in Web Devlopment,programming languages
+- 🌱 I’m currently learning Front End Web Development,backend development,app creation
 - 💞️ I’m looking to collaborate with different communities and developers to improve my skills and experience
 - 📫 How to reach me 
 - You Can Reach Me Through My Email Adress : izza.kanwal2005@gmail.com
